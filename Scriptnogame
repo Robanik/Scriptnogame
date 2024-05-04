@@ -32,10 +32,10 @@ local colors = {
 }
 ]]
 -- Создать окно UI
-local Window = Library.CreateLib("игра скоро чит", "RJTheme5")
+local Window = Library.CreateLib("стихийные бедствия", "RJTheme5")
 
 -- Секция
-local Tab = Window:NewTab("скоро выпущю чит")
+local Tab = Window:NewTab("авто фарм побед")
 
 -- Подсекция
 local Section = Tab:NewSection("надо врубать каждый раунд")
